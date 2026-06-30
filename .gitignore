@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+
+# Build
+dist/
+*.spec
+
+# Output
+output/
+
+# Logs
+log.txt
+
+# Temp
+*.zip
+*.db
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Project files
+node_modules/
+package.json
+package-lock.json
